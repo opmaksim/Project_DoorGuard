@@ -80,6 +80,10 @@
 **<감지되면 Kakao API에 의해 전송 & QT UI>**
 ![alt text](<img/API전송 및 QT.png>)
 
+## **소스코드**
+
+### [소스코드 바로가기](src/)
+
 ## 📸 **시연영상**
 
 ### [감지 시 얼굴 표시](https://drive.google.com/file/d/1c4sSM_GC_fltZvzBOZGKgdaTEfZdgICl/view?usp=sharing)
